@@ -329,6 +329,7 @@ background: #fff;
 }
 .footer-wrapper {
   display: flex;
+  align-items: baseline ;
 
 }
 .ws-container {
@@ -388,14 +389,14 @@ margin-right: 120px;
   display: flex;
   justify-content: center;
   align-items: center;
-  transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
-}
-.footer-sm-link:hover {
-  
-}
-.footer-sm-icon {
-  /* fill: transparent; */
+  transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 .footer-sm-link:hover {
   background-color: #31d0aa;
+}
+.footer-sm-link:focus {
+background-color: #31d0aa; 
+}
+.footer-sm-icon {
+  fill: #f4f4fd 
 }

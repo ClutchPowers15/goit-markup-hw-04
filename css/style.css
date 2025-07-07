@@ -188,6 +188,15 @@ nav span {
 .work-item {
   width: calc((100% - 72px) / 4);
 }
+.work-container-icon {
+border: 1px solid var(--light-slate);
+border-radius: 4px;
+width: 264px;
+height: 112px;
+}
+.work-icon {
+
+}
 .work-item-title {
   font-weight: 500;
   font-size: 20px;

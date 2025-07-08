@@ -417,11 +417,11 @@ margin-right: 120px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #fff;
-  display: inline-block;
+  /* display: inline-block; */
    margin-bottom: 16px;
-  display: flex;
+  /* display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: center; */
   /* margin-left: 0; */
 }
 .footer-sm-list {

@@ -323,11 +323,11 @@ border: 1px solid #8e8f99;
 background: #fff;
 transform: translateY(0);
 }
-.image-animations {
+.image-animation {
 position: relative;
 overflow: hidden;
 }
-.image-animations-text {
+.image-animation-text {
 position: absolute;
 top: 0;
 left: 0;

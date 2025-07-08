@@ -388,6 +388,7 @@ margin-right: 120px;
   display: flex;
   align-items: center;
   justify-content: center;
+  /* margin-left: 0; */
 }
 .footer-sm-list {
   display: flex;

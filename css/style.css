@@ -189,10 +189,14 @@ nav span {
   width: calc((100% - 72px) / 4);
 }
 .work-container-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
 border: 1px solid var(--light-slate);
 border-radius: 4px;
-width: 264px;
 height: 112px;
+background-color: #f4f4fd;
+margin-bottom: 8px;
 }
 .work-icon {
 
